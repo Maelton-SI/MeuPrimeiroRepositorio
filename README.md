@@ -1,15 +1,24 @@
 ## Meu primeiro repositório.
 
-No meu primeiro repositório aprendi a repositórios remotos no GitHub.
+**No meu primeiro repositório aprendi a criar repositórios locais e remotos.**
 
-Além de criar repositórios locais e utilizar comandos Git iniciais, como:
+### Primeiros comandos Git utilizados:
 
--> git init
--> git branch -m
--> git status
--> git add
--> git commit -m
+**Comandos utilizados para criar e atualizar repositório local:**
 
--> git remote add
--> git push -u
--> git push
+- git init
+- git branch -m
+- git status
+- git add
+- git commit -m
+
+**Comandos utilizados para atualizar repositório remoto:**
+
+- git remote add
+- git push -u
+- git push
+
+**Comandos utilizados para gerar autorizações de acesso:**
+  
+- git config user.name
+- git config credential.username
